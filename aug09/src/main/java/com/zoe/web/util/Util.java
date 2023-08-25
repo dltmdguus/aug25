@@ -113,7 +113,7 @@ public class Util {
 	   }
 	 public void htmleMailSender(Map<String, Object> map) throws EmailException {
 	      String emailAddr = "zzooooee@outlook.com";// 보내는 사람
-	      String passwd = "dltmdgus1";// 메일의 암호를 넣어주세요.
+	      String passwd = "비밀입니당";// 메일의 암호를 넣어주세요.
 	      String name = "스프링에서 보냄";// 보내는 사람 이름
 	      String hostname = "smtp.office365.com";// smtp 주소
 	      int port = 587; //포트알기
